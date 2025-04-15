@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# API's Checkpoint
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://github.com/DBusuru/API-s_Checkpoint.git
 
 ## Available Scripts
 
